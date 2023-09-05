@@ -241,6 +241,7 @@ export default [{
 
   description: {
     en: 'Temporarily increases your damage output.',
+    ru: 'Временно увеличивает ваш урон.',
     fr: 'Augmente temporairement vos dégats.',
     zh: '暫時增加你的傷害輸出。',
     ko: '일시적으로 당신의 대미지가 증가합니다.',
@@ -547,6 +548,7 @@ export default [{
 
   description: {
     en: 'Allows you to ride ground mounts. Mounts are bound to your account.',
+    ru: 'Позволяет вам ездить на наземных питомцах. Питомцы привязаны к вашему аккаунту.',
     fr: 'Vous permet de chevaucher des montures terrestres. Les mountures sont liées à votre compte.',
     zh: '允許你在地上騎乘坐騎。坐騎綁定你的帳號。',
     ko: '마운트를 탈수 있게 해줍니다, 마운트는 (한번 사용한이상) 타거나 드랍할수 없습니다.',
@@ -574,6 +576,7 @@ export default [{
 
   description: {
     en: 'Two seconds after casting all active stun and root effects on you will be removed. If any effect is removed then your Charge cooldown is reset and you gain 20 Movement Speed for 3 seconds.',
+    ru: 'Через две секунды после применения, все активные на вас эффекты оглушения и обездвиживания будут удалены. Если какой-либо эффект удаляется, то время перезарядки вашего Charge сбрасывается, и ваша скорость передвижения увеличивается на 20 на 3 секунды.',
     fr: 'Deux secondes après l\'utilisation, tous les effets d\'étourdissement et d\'enracinement actifs sur vous seront supprimés. Si un effet est supprimé, le temps de recharge de votre Charge est réinitialisé et vous gagnez 20 de vitesse de déplacement pendant 3 secondes.',
     zh: '施放後2秒內抵消對你造成的限制效果，如果成功抵消效果，則Charge的冷卻時間會重製，並增加20移動速度3秒。',
     ko: '사용하고 2초후 플레이어에게 있는 모든 디버프를 제거합니다, 만약 제거한 디버프가 있다면 20의 추가 이동속도를 얻고 Dash 의 쿨타임을 없앱니다.',
